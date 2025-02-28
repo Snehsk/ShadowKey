@@ -37,15 +37,6 @@ https://eips.ethereum.org/EIPS/eip-5564
 
 URL: https://shadowkey-35bd86dea963.herokuapp.com/
 
-### Smart Contracts
-
-Registry: https://sepolia.lineascan.build/address/0xc039c13470be809bed1c2cd42339ccb22e0970f2
-
-Announcer: https://sepolia.lineascan.build/address/0xc6b69d83db6d40b3b644436e3a36252801fc0f64
-
-Stealth: https://sepolia.lineascan.build/address/0xa5f90284a54c9857be4d0c40fe4be23457c1ff9f
-
-
 ### Technology used
 
 Web: NextJS, React, Chakra, Heroku.
